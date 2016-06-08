@@ -1,0 +1,29 @@
+Partlist
+========
+
+Part     Value              Device             Package            Library     Sheet
+
+C1       10n                C-EUC0603K         C0603K             rcl         1
+C2       1u                 C-EUC0805K         C0805K             rcl         1
+C3       1u                 C-EUC0805K         C0805K             rcl         1
+C4       1u                 C-EUC0805K         C0805K             rcl         1
+C5       100n               C-EUC0603K         C0603K             rcl         1
+C6       47p (optional)     C-EUC0603K         C0603K             rcl         1
+C7       47p (optional)     C-EUC0603K         C0603K             rcl         1
+C11      100n               C-EUC0603K         C0603K             rcl         1
+C16      10n                C-EUC0603K         C0603K             rcl         1
+IC1      IC_FT230X-SSOP-16  IC_FT230X-SSOP-16  SSOP-16-FTDI       dp_devices  1
+JMP1     0R-JUMPA           0R-JUMPA           A0R-JMP            jump-0r-smd 1
+JP1                         PINHD-1X8/90       1X08/90            pinhead     1
+L1       33R@100MHz         L-EUL2012C         L2012C             rcl         1
+LED2                        LEDCHIPLED_0805    CHIPLED_0805       adafruit    1
+LED4                        LEDCHIPLED_0805    CHIPLED_0805       adafruit    1
+R1       27                 R-EU_R0603         R0603              rcl         1
+R2       27                 R-EU_R0603         R0603              rcl         1
+R3       200                R-EU_R0805         R0805              rcl         1
+R4       150                R-EU_R0603         R0603              rcl         1
+R5                          TRIMMER-3314G      TRIMMER_3314G      dp_devices  1
+R14      1M                 R-EU_R0603         R0603              rcl         1
+R28      150                R-EU_R0603         R0603              rcl         1
+U1       LM317LD13TR        LM317LD13TR        SOIC127P600X175-8N lm317ld     1
+X1       ZX62-B-5PA         ZX62-B-5PA-LONG    ZX62-B-5PA-LONG    Hirose-USB  1
